@@ -95,12 +95,4 @@ While building this project, I practiced:
 - Adding smooth animations using AOS
 - Structuring a clean landing page
 
-## Author
 
-**Apurv Pentewar**
-
-GitHub: [Apurv7550](https://github.com/Apurv7550)
-
-## License
-
-This project is open source and available for learning and practice.
