@@ -4,13 +4,7 @@ A modern sushi restaurant landing page built with HTML, CSS, JavaScript, Vite, a
 
 This project was created to practice frontend layout, styling, animations, and clean project structure. It includes a hero section, navigation bar, food sections, testimonials, and a responsive landing page design.
 
-## Live Preview
 
-Add your live project link here after deployment.
-
-## Screenshot
-
-![Sushido Landing Page Preview](./public/preview.png)
 
 ## Features
 
